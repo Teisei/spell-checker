@@ -1,0 +1,13 @@
+{
+	"model_file": "./data/channel_data.txt",
+	"train_file": "./data/final.out",
+	"dic_file": "./data/words.txt",
+	"equal_prob": 0.9,
+	"most_dis": 2,
+	"context_num": 2,
+	"transfer_freq": "loglog",
+	"top_num": 3,
+	"train": "no",
+	"test": "no",
+	"prune": "yes"
+}
